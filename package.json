@@ -1,5 +1,5 @@
 {
-  "name": "@pefish/template",
+  "name": "@pefish/template_name",
   "version": "0.0.1",
   "description": "template_description",
   "keywords": [
@@ -8,8 +8,8 @@
     "tool",
     "ether"
   ],
-  "homepage": "https://github.com/pefish/template",
-  "bugs": "https://github.com/pefish/template/issues",
+  "homepage": "https://github.com/pefish/template_name",
+  "bugs": "https://github.com/pefish/template_name/issues",
   "license": "MIT",
   "author": "pefish",
   "types": "./types/index.d.ts",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pefish/template"
+    "url": "https://github.com/pefish/template_name"
   },
   "scripts": {
     "build": "rm -rf lib && rm -rf types && tsc",
