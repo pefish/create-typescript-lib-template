@@ -29,12 +29,12 @@
     "prepublish": "check-node-version --npm \">=4\" || npm run prepare"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.12",
-    "@types/mocha": "^5.2.7",
-    "@types/node": "^11.15.54",
-    "check-node-version": "^1.1.2",
-    "mocha": "^10.3.0",
+    "@types/chai": "^5.0.1",
+    "@types/mocha": "^10.0.9",
+    "@types/node": "^22.9.0",
+    "check-node-version": "^4.2.1",
+    "mocha": "^10.8.2",
     "ts-node": "^10.9.2",
-    "typescript": "^3.9.10"
+    "typescript": "^5.6.3"
   }
 }
